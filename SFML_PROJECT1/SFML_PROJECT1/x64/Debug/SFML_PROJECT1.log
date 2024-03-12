@@ -1,0 +1,9 @@
+﻿  SFML_PROJECT1.cpp
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(31,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(33,28): warning C4305: =: усечение из "double" в "float"
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(34,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(35,28): warning C4305: =: усечение из "double" в "float"
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(36,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(37,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\4elik\source\repos\SFML_PROJECT1\SFML_PROJECT1\figures.h(38,31): warning C4305: =: усечение из "double" в "float"
+  SFML_PROJECT1.vcxproj -> C:\Users\4elik\source\repos\SFML_PROJECT1\x64\Debug\SFML_PROJECT1.exe
